@@ -1,7 +1,7 @@
 # FoxPloit
 This is our first release, So expect bugs, After all its a keyless executor
 
-### Running OrangeFox Exploit
+### Running FoxPloit
 
 Ok Many people, after downloading and extracting, say it doesn't work, so here's the way
 
